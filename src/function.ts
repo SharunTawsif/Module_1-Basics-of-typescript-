@@ -20,4 +20,18 @@
 
 //method in ts
 //object er moddhe kono function define korle shetake bola hoy method
- 
+// const user = {
+//     name: "Tawsif",
+//     balance : 0,
+//     addBalance (value : number) : number {
+//         const totalBalance = this.balance + value;
+//         return totalBalance;
+//     }
+// }
+// console.log(user.addBalance(100000));
+
+
+//callback function o use korte pari amra
+
+
+
