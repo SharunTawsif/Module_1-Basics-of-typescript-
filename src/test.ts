@@ -76,3 +76,5 @@ let obj4 : {
     firstName : "sharun",
     lastName: "tawsif"
 }
+
+
